@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: Gaurav
+Class-Path: javax.websocket-client-api-1.0.jar tyrus-client-1.1.jar ty
+ rus-core-1.1.jar tyrus-spi-1.1.jar javax.websocket-api-1.0.jar tyrus-
+ websocket-core-1.1.jar tyrus-container-grizzly-1.1.jar grizzly-framew
+ ork-2.3.3.jar grizzly-http-server-2.3.3.jar grizzly-http-2.3.3.jar gr
+ izzly-rcm-2.3.3.jar
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Main-Class: com.atithi.MessageListener.WebSocketClient
+

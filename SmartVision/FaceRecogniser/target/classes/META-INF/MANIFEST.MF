@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: Gaurav
+Class-Path: opencv-2.4.9.jar javacv-0.9.jar javacpp-0.9.jar opencv-2.4
+ .9-0.9.jar ffmpeg-2.3-0.9.jar flycapture-2.6.3.4-0.9.jar libdc1394-2.
+ 2.2-0.9.jar libfreenect-0.5-0.9.jar videoinput-0.200-0.9.jar artoolki
+ tplus-2.3.0-0.9.jar
+Build-Jdk: 1.8.0_91
+Created-By: Maven Integration for Eclipse
+Main-Class: com.atithi.LiveFaceDetector
+
